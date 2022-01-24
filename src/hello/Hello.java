@@ -27,6 +27,10 @@ public class Hello {
         //11. Create a new class called `TestCase001` and make a commit with proper commit message
         //12. Add 3 more changes and make 3 more individual commits
         //13. And now merge your commits into master branch
+        //         //10. Create a new branch called `tc002`
+        //        //11. Create a new class called `TestCase001` and make a commit with proper commit message
+        //        //12. Add 3 more changes and make 3 more individual commits
+        //        //13. And now merge your commits into master branch
 
 
     }
