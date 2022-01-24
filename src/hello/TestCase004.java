@@ -7,6 +7,7 @@ public class TestCase004 {
 //how are you
 //# GitHub Flow for Team collaboration
 //
+
 //1. create a local branch called `tc004`
 //2. create a java class `TestCase004`
 //3. make a commit
